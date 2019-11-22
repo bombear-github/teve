@@ -63,3 +63,6 @@ worked: @echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -
 ***********
 
 forgoe the timestamp on update
+i would like to find a substitute method of delivering date and time.
+
+**********^^^^^^^^^^^^^^^^^^^#################@@@@@@@@@@@@@@@@@@@&&&&&&&&&&&&&&&((((((((((((*********
