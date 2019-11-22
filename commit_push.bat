@@ -1,1 +1,1 @@
-@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'D:\Programs\Windows\pmg\bombear-github_teve\' && git add --all &&  git commit -m 'Autocommit' && git push origin master && git pull""
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'D:\Programs\Windows\pmg\bombear-github_teve\' && git status && git add --all &&  git commit -a -m 'Autocommit' && git push origin master""
