@@ -61,3 +61,5 @@ worked: @echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -
 ***********
 ^^^^^^^^^^^^^^^
 ***********
+
+forgoe the timestamp on update
