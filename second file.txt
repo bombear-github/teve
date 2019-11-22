@@ -8,3 +8,4 @@ works with command line pasted directly into powershell
 not working with bat file
 changed to ps1 extension
 added @echo off & powershell -command "" to beginning of powershell command
+the bat worked, maybe because of time restriction. changed message to autoupdate.
