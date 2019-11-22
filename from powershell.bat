@@ -1,1 +1,1 @@
-& "C:\Program Files\Git\bin\bash.exe" -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add --all  &&  git commit -m 'Automatic Commit Message Goes Here' && git push origin master"
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add --all  &&  git commit -m 'AUTOCOMMIT' && git push origin master""

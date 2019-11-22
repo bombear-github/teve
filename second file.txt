@@ -4,3 +4,7 @@ trying time commit message
 executing the bat file with cmd
 error with no new commit
 running on script with powershell
+works with command line pasted directly into powershell
+not working with bat file
+changed to ps1 extension
+added @echo off & powershell -command "" to beginning of powershell command
