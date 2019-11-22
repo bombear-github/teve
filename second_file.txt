@@ -14,3 +14,6 @@ add only to 1 file
 
 revert back to everything
 add 1 file
+
+new code
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add --all  &&  git commit -m 'AUTOCOMMIT' && git push origin master""
