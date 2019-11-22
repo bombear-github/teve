@@ -29,3 +29,5 @@ ONLY COMMIT IF THERE ARE CHANGES?
 
 SPITTED OUT AN ERROR, TRY TO INSERT "Updated: `date +'%Y-%m-%d %H:%M:%S'`"
 MAYBE NOW IT WILL WORK
+
+replace back to --all
