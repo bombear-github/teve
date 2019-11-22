@@ -48,3 +48,7 @@ reverted back again
 
 so many changes, script so far:
 @echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add second_file.txt &&  git commit -m date +'%Y-%m-%d %H:%M:%S' && git push origin master""
+
+****************
+
+found the error to be: need to pull because repo contained files not found locally
