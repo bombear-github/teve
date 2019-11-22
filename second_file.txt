@@ -32,3 +32,6 @@ MAYBE NOW IT WILL WORK
 
 replace back to --all
 updated all the things, except for second_file.txt
+
+went back to 
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add --all  &&  git commit -m 'AUTOCOMMIT' && git push origin master""
