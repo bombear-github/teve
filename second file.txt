@@ -1,3 +1,6 @@
 testing modification capability
 trying to automate
 trying time commit message
+executing the bat file with cmd
+error with no new commit
+running on script with powershell
