@@ -7,7 +7,13 @@ running on script with powershell
 works with command line pasted directly into powershell
 not working with bat file
 changed to ps1 extension
+
+
 added @echo off & powershell -command "" to beginning of powershell command
+
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\sh.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add --all  &&  git commit -m 'Automatic Commit Message Goes Here' && git push origin master"
+
+
 the bat worked, maybe because of time restriction. changed message to autoupdate.
 changed formating of commit comment
 add only to 1 file
