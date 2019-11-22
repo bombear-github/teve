@@ -1,1 +1,1 @@
-@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add second_file.txt &&  git commit -m 'Autocommit' && git push origin master""
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add second_file.txt &&  git commit -m 'Autocommit' && git push origin master && git pull""
