@@ -24,3 +24,8 @@ remove `
 @echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add second_file.txt &&  git commit -m date +'%Y-%m-%d %H:%M:%S' && git push origin master""
 
 @echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add second_file.txt &&  git commit -m AUTOUPDATE && git push origin master""
+
+ONLY COMMIT IF THERE ARE CHANGES?
+
+SPITTED OUT AN ERROR, TRY TO INSERT "Updated: `date +'%Y-%m-%d %H:%M:%S'`"
+MAYBE NOW IT WILL WORK
