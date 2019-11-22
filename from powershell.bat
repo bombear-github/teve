@@ -1,1 +1,1 @@
-@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add --all &&  git commit -m "Updated: `date +'%Y-%m-%d %H:%M:%S'`" && git push origin master""
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add --all &&  git commit -m updated && git push origin master""
