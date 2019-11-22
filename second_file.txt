@@ -52,3 +52,12 @@ so many changes, script so far:
 ****************
 
 found the error to be: need to pull because repo contained files not found locally
+
+worked: @echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add second_file.txt &&  git commit -m 'Autocommit' && git push origin master""
+*****************
+
+@echo off & powershell -command "& 'C:\Program Files\Git\bin\bash.exe' -c "cd 'C:\Users\Khoa\Desktop\test\teve\' && git add second_file.txt &&  git commit -m %date:~0% - %time:~0,8% && git push origin master""
+
+***********
+^^^^^^^^^^^^^^^
+***********
