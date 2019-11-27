@@ -1,286 +1,286 @@
 #EXTM3U
 #EXTINF: -1,ABCE
-http://peer3.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,A&E
-http://peer1.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,AMC
-http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,APL
-http://peer2.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,BBCA
-http://peer3.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,BET
-http://peer2.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,BOOM
-http://peer3.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,BRVO
-http://peer2.savitar.tv/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,CNE
-http://peer1.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,CBSE
-http://peer2.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,CMT
-http://peer2.savitar.tv/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,CNBC
-http://peer1.savitar.tv/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,CNN
-http://peer1.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,COM
-http://peer3.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,DEST
-http://peer1.savitar.tv/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,DSC
-http://peer1.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,DISE
-http://peer2.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,DISJR
-http://peer3.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,DXD
-http://peer1.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,DIY
-http://peer1.savitar.tv/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,E!
-http://peer1.savitar.tv/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,ESPN
-http://peer1.savitar.tv/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,ESPN2
-http://peer3.savitar.tv/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FOOD
-http://peer1.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FBN
-http://peer3.savitar.tv/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FOXE
-http://live.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FNC
-http://peer3.savitar.tv/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FS1
-http://peer3.savitar.tv/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FS2
-http://live.savitar.tv/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FREEFM
-http://peer1.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FX
-http://peer3.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FXM
-http://peer2.savitar.tv/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,FXX
-http://live.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,GOLF
-http://peer1.savitar.tv/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,GSN
-http://peer3.savitar.tv/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,HALL
-http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,HMM
-http://peer1.savitar.tv/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,HBO
-http://peer3.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,HGTV
-http://live.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,HIST
-http://peer1.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,HLN
-http://live.savitar.tv/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,ID
-http://peer1.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,LIFE
-http://peer1.savitar.tv/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,LIFEMOV
-http://peer3.savitar.tv/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,MLBN
-http://peer1.savitar.tv/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,MTHD
-http://live.savitar.tv/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,MSNBC
-http://peer3.savitar.tv/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,MTV
-http://peer1.savitar.tv/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NGW
-http://peer1.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NGC
-http://peer2.savitar.tv/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NBA
-http://peer2.savitar.tv/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NBCSN
-http://peer3.savitar.tv/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NBCE
-http://peer3.savitar.tv/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NFLHD
-http://live.savitar.tv/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NIKE
-http://peer2.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,NKTN
-http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,OWN
-http://peer2.savitar.tv/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,OXGN
-http://live.savitar.tv/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,PAR
-http://live.savitar.tv/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,PBSE
-http://peer2.savitar.tv/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,POP
-http://live.savitar.tv/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,SCI
-http://peer1.savitar.tv/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,SHO
-http://peer1.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,STARZ
-http://peer2.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,SUND
-http://peer1.savitar.tv/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,SYFY
-http://peer2.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TBS
-http://peer3.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TCM
-http://peer2.savitar.tv/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TELE
-http://peer1.savitar.tv/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TNNS
-http://peer2.savitar.tv/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,CWE
-http://live.savitar.tv/CWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/CWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,WEATH
@@ -288,37 +288,37 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTM3U
 #EXTINF: -1,TLC
-http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TNT
-http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TRAV
-http://peer3.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TruTV
-http://live.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer3.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,TVLD
-http://peer3.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,UNVSO
-http://live.savitar.tv/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,USA
-http://peer2.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer2.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,VH1
-http://peer3.savitar.tv/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTM3U
 #EXTINF: -1,WE
-http://peer1.savitar.tv/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxMjowMTozMiBQTSZoYXNoX3ZhbHVlPVpKNXhIMUFYUk0rUzNZOEVhTEdGZVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://peer1.savitar.tv/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAxOjAxOjQwIFBNJmhhc2hfdmFsdWU9ZXQ5bUdUZC9tYUpkNlNvaURoMHlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
