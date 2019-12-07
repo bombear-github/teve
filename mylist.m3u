@@ -1,4 +1,5 @@
 #EXTM3U
+<<<<<<< HEAD
 #EXTINF: -1,ABCE group-title=Bombear's list
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 https://peer2.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
@@ -402,4 +403,408 @@ https://peer3.ustv.to/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTI
 #EXTINF: -1,WE group-title=Bombear's list
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 https://peer3.ustv.to/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+=======
+#EXTINF: -1,ABC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/ABC/myStream/playlist.m3u8
 
+#EXTM3U
+#EXTINF: -1,A&E
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/AE/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,AMC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/AMC/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Animal Planet
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Animal/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,BBC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/BBCAmerica/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,BET
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/BET/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Bloomberg
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/Boomerang/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Bravo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Bravo/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Cartoon Network
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/CN/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,CBS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/CBS/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,CMT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/CMT/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,CNBC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/CNBC/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,CNN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/CNN/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Comedy Central
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Comedy/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,CW
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/CWE/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Destination
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/DA/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Discovery
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Discovery/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Disney
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/Disney/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Disney Jr.
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/DisneyJr/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Disney XD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/DisneyXD/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,DIY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/DIY/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,E!
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/E/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,ESPN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/ESPN/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,ESPN2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/ESPN2/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Food Network
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/FoodNetwork/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Fox Business
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/FoxBusiness/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Fox
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/FOX/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Fox News
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/FoxNews/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,FS1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/FS1/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,FS2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/FS2/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Freeform
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,FX
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/FX/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,FX Movie
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/FXMovie/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,FXX
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/FXX/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Golf
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/GOLF/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,GSN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/GSN/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Hallmark
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/Hallmark/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,HMM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/HMM/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,HBO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/HBO/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,HGTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/HGTV/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,History
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/History/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,HLN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/HLN/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,ID
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/ID/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Lifetime
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/Lifetime/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Lifetime Movie
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/LifetimeM/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,MLB
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/MLB/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,MotorTrend
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/MotorTrend/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,MSNBC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/MSNBC/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,MTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/MTV/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,National Geographic Wild
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,National Geographic
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/NatGEO/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,NBA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/NBA/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,NBCSN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/NBCSN/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,NBC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/NBC/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,NFL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/NFL/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Nickelodeon
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/Nickelodeon/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Nicktoons
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/Nicktoons/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,OWN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/OWN/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Oxygen
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/Oxygen/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Paramount
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/Paramount/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,PBS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/PBS/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,POP
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/POP/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,SCI
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Science/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Showtime
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Showtime/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,STARZ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/StarZ/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,SundanceTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/SundanceTV/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,SYFY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/SYFY/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,TBS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/TBS/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,TCM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/TCM/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Telemundo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Telemundo/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,Tennis
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Tennis/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,TLC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/TLC/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,TNT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/TNT/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,TRAV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/Travel/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,TruTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer2.savitar.tv/TruTV/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,TVLD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/TVLand/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,UNVSO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/Univision/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,USA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://live.savitar.tv/USANetwork/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,VH1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer3.savitar.tv/VH1/myStream/playlist.m3u8
+
+#EXTM3U
+#EXTINF: -1,WE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+http://peer1.savitar.tv/WETV/myStream/playlist.m3u8
+>>>>>>> cf1dd58a5b334ba3c6df37d2cf820cb49a8bf5e9
+
+#EXTM3U
+#EXTINF: -1,Weather
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
