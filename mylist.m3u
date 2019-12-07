@@ -1,324 +1,405 @@
 #EXTM3U
-#EXTINF: -1,ABCE
-http://peer3.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,ABCE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,A&E
-http://peer2.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,A&E group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,AMC
-http://peer2.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,AMC group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,APL
-http://peer3.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,APL group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,BBCA
-http://peer2.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,BBCA group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,BET
-http://peer1.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,BET group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,BOOM
-http://peer2.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,BOOM group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,BRVO
-http://live.savitar.tv/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,BRVO group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,CNE
-http://peer2.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,CNE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,CBSE
-http://peer1.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,CBSE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,CMT
-http://live.savitar.tv/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,CMT group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,CNBC
-http://live.savitar.tv/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,CNBC group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,CNN
-http://peer3.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,CNN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,COM
-http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,COM group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,DEST
-http://live.savitar.tv/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,DEST group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,DSC
-http://peer1.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,DSC group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,DISE
-http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,DISE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,DISJR
-http://peer2.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,DISJR group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,DXD
-http://peer2.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,DXD group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,DIY
-http://peer3.savitar.tv/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,DIY group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,E!
-http://live.savitar.tv/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,E! group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,ESPN
-http://peer3.savitar.tv/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,ESPN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,ESPN2
-http://peer3.savitar.tv/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,ESPN2 group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FOOD
-http://peer3.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FOOD group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FBN
-http://live.savitar.tv/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FBN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FOXE
-http://peer3.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FOXE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FNC
-http://peer1.savitar.tv/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FNC group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FS1
-http://peer2.savitar.tv/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FS1 group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FS2
-http://peer3.savitar.tv/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FS2 group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FREEFM
-http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FREEFM group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FX
-http://peer3.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FX group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FXM
-http://peer2.savitar.tv/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FXM group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,FXX
-http://live.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,FXX group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,GOLF
-http://live.savitar.tv/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,GOLF group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,GSN
-http://peer1.savitar.tv/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,GSN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,HALL
-http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,HALL group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,HMM
-http://peer1.savitar.tv/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,HMM group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,HBO
-http://live.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,HBO group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,HGTV
-http://peer3.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,HGTV group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,HIST
-http://peer2.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,HIST group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,HLN
-http://live.savitar.tv/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,HLN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,ID
-http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,ID group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,LIFE
-http://peer2.savitar.tv/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,LIFE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,LIFEMOV
-http://live.savitar.tv/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,LIFEMOV group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,MLBN
-http://peer2.savitar.tv/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,MLBN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,MTHD
-http://peer1.savitar.tv/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,MTHD group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,MSNBC
-http://live.savitar.tv/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,MSNBC group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,MTV
-http://peer2.savitar.tv/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,MTV group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NGW
-http://peer1.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NGW group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NGC
-http://peer3.savitar.tv/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NGC group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NBA
-http://live.savitar.tv/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NBA group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NBCSN
-http://live.savitar.tv/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NBCSN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NBCE
-http://live.savitar.tv/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NBCE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NFLHD
-http://peer1.savitar.tv/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NFLHD group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NIKE
-http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NIKE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,NKTN
-http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,NKTN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,OWN
-http://peer1.savitar.tv/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,OWN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,OXGN
-http://peer3.savitar.tv/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,OXGN group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,PAR
-http://peer1.savitar.tv/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,PAR group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,PBSE
-http://peer1.savitar.tv/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,PBSE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,POP
-http://peer1.savitar.tv/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,POP group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,SCI
-http://live.savitar.tv/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,SCI group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,SHO
-http://peer3.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,SHO group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,STARZ
-http://peer3.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,STARZ group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,SUND
-http://peer2.savitar.tv/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,SUND group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,SYFY
-http://peer2.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,SYFY group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TBS
-http://peer1.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TBS group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TCM
-http://live.savitar.tv/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TCM group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TELE
-http://peer2.savitar.tv/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TELE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TNNS
-http://peer2.savitar.tv/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TNNS group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,CWE
-http://live.savitar.tv/CWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,CWE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/CWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,WEATH
+#EXTINF: -1,WEATH group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTM3U
-#EXTINF: -1,TLC
-http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TLC group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TNT
-http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TNT group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TRAV
-http://peer2.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TRAV group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TruTV
-http://peer1.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TruTV group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,TVLD
-http://peer1.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,TVLD group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,UNVSO
-http://live.savitar.tv/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,UNVSO group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer1.ustv.to/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,USA
-http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,USA group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer2.ustv.to/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,VH1
-http://peer1.savitar.tv/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,VH1 group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 #EXTM3U
-#EXTINF: -1,WE
-http://peer3.savitar.tv/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6MDE6NTEgQU0maGFzaF92YWx1ZT1lTXpZam1ucDlNblB6QjRVaGlDRXhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF: -1,WE group-title=Bombear's list
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+https://peer3.ustv.to/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDc6MjI6MDMgQU0maGFzaF92YWx1ZT16MW1RbEdkWmtOcFRTS2VBNjV3Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
