@@ -9,4 +9,4 @@ git push -u origin master
 git pull
 git status
 
-#pause
+pause
