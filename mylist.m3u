@@ -1,357 +1,357 @@
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, ABC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, A&E
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, AMC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Animal Planet
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, BBC America
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, BET
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Boomerang
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Bravo
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Cartoon Network
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, CBS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, CMT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, CNBC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, CNN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Comedy Central
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Destination
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Discovery
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Disney
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Disney Jr.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Disney XD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, DIY
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, E!
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, ESPN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, ESPN2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Food Network
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Fox Business
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, FOX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Fox News
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, FS1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, FS2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, FreeForm
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, FX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, FXM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, FXX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, GOLF
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, GSN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Hallmark
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Hallmark Movies & Mysteries
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, HBO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, HGTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, History
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, HLN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, ID
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Lifetime
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Lifetime Movie
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, MLB
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, MotorTrend
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, MSNBC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, MTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, National Geographic Wild
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, National Geographic
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, NBA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, NBCSN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, NBC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, NFL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Nickelodeon
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Nicktoons
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, OWN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Oxygen
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Paramount
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, PBS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, POP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Science
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Showtime
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, StarZ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, SundanceTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, SYFY
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, TBS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, TCM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Telemundo
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Tennis
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, CW
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/CWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/CWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Weather
@@ -361,45 +361,45 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, TLC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, TNT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Travel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, TruTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, TVLand
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, Univision
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer2.ustv.to/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, USA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, VH1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer2.ustv.to/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer3.ustv.to/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTM3U
 #EXTINF: -1, group-title=BombearList, WETV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer1.ustv.to/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAxMDowMjoyMSBBTSZoYXNoX3ZhbHVlPTdEVkhQM0orbU9jZGVPUmhZb1Y0N3c9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+https://peer1.ustv.to/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOSAyOjAyOjIwIFBNJmhhc2hfdmFsdWU9TkczZE8veG91amNHTitDZmRFTzBodz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
